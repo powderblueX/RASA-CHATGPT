@@ -1,0 +1,5 @@
+rasa==3.6.19
+rasa-sdk==3.6.2
+openai>=1.66.0,<3
+python-dotenv>=1.0.1,<2
+
